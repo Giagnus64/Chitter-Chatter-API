@@ -5,7 +5,7 @@ A messaging app that plays sounds and animations with every message.
 Users are able to send and recieve messages with other users. When a user types a letter on the site, a sound and animation will play. Users can replay the sounds and animations that play when other users send them messages. Users are also able to edit their information.  
 
 ## Demo
-Demo Video coming soon!
+[Live](https://chitterchatter.netlify.com)(Login:test)| [Video](https://youtu.be/LXnu3VkGr04)
 
 ## Built with
  *Back-end*
